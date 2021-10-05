@@ -1,4 +1,4 @@
-### Hi there, I'm Aurélie - aka Aurrou 👋
+### Hi there 👋
 
 - 🔭 Currently working on a few Rails app
 - 🧐 Focus on web development 
